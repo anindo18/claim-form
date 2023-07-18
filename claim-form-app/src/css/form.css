@@ -1,0 +1,67 @@
+.form-container{
+   text-align: initial !important;
+   width: 80%;
+   display: grid !important;
+}
+.css-13cymwt-control {
+   width: 80%
+}
+
+.fullName-label{
+   padding-right: 6%;
+}
+.phoneNumber-label{
+   padding-right: 2.5%;
+}
+.email-label{
+   padding-right: 9%;
+}
+.Address-label{
+   padding-right: 6%;
+}
+
+.css-b62m3t-container{
+   width: 20%;
+}
+.address-label{
+   padding-right: 7%;
+}
+.city-label{
+   padding-right: 10%;
+}
+.zip-label{
+   padding-right: 5.5%;
+}
+
+.Allbuttons{
+   display:flex !important;
+   gap: 15px;
+   padding-top:1%;
+}
+
+.ReviewButton{
+   background-color: #0074d9;
+  color: white;
+  /*font-size: 20px;*/
+  padding: 10px 60px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+
+.ClearButton{
+   background-color: #ff4136;
+  color: white;
+  /*font-size: 20px;*/
+  padding: 10px 60px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+h1{
+   background-color: antiquewhite;
+   width: 80%;
+   text-align: center;
+}
